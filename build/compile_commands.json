@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++  -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp-resources.dir/__cmrc_togiapp-resources/lib.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/build/__cmrc_togiapp-resources/lib.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/__cmrc_togiapp-resources/lib.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++  -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp-resources.dir/__cmrc_togiapp-resources/intermediate/resources/logo.png.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/build/__cmrc_togiapp-resources/intermediate/resources/logo.png.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/__cmrc_togiapp-resources/intermediate/resources/logo.png.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/headers -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1 -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp.dir/src/sources/main.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/main.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/main.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/headers -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1 -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp.dir/src/sources/Login.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Login.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Login.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/headers -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1 -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp.dir/src/sources/Connection.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Connection.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Connection.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/build",
+  "command": "/usr/bin/g++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/headers -I/usr/local/lib/wx/include/gtk3-unicode-3.1 -I/usr/local/include/wx-3.1 -I/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/_cmrc/include -g -o CMakeFiles/togiapp.dir/src/sources/Dashboard.cpp.o -c /home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Dashboard.cpp",
+  "file": "/home/syberturco/Masaüstü/yazilim/c++/togiapp/src/sources/Dashboard.cpp"
+}
+]

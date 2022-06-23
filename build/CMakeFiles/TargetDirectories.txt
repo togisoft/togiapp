@@ -1,0 +1,4 @@
+/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/CMakeFiles/togiapp-resources.dir
+/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/CMakeFiles/togiapp.dir
+/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/CMakeFiles/edit_cache.dir
+/home/syberturco/Masaüstü/yazilim/c++/togiapp/build/CMakeFiles/rebuild_cache.dir

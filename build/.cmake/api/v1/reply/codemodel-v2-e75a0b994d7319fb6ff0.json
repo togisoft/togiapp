@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "togiapp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "togiapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-togiapp-Debug-52fc4e541ccd1e0b5fbe.json",
+					"name" : "togiapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "togiapp-resources::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-togiapp-resources-Debug-a95b0b5fd2e3e7a5edec.json",
+					"name" : "togiapp-resources",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/syberturco/Masa\u00fcst\u00fc/yazilim/c++/togiapp/build",
+		"source" : "/home/syberturco/Masa\u00fcst\u00fc/yazilim/c++/togiapp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

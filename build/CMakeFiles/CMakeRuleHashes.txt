@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+978be67562fb2bc2dbbd82172a2afba0 __cmrc_togiapp-resources/intermediate/resources/logo.png.cpp
+c290589bf3180477ce930e6cb978c84d __cmrc_togiapp-resources/lib.cpp

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtogiapp-resources.a "CMakeFiles/togiapp-resources.dir/__cmrc_togiapp-resources/lib.cpp.o" "CMakeFiles/togiapp-resources.dir/__cmrc_togiapp-resources/intermediate/resources/logo.png.cpp.o"
+/usr/bin/ranlib libtogiapp-resources.a
